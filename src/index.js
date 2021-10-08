@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import { defineCustomElements } from 'mattsstenciltest'
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
